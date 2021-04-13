@@ -2,6 +2,8 @@
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Venezuela**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
 # Organización territorial
+El territorio nacional y sus subdivisiones representam **jurisdiciones**:
+
 - El país está dividido en **23 estados, Distrito Capital (Caracas) y Dependencias Federales (islas)**.
 - Los estados y el Distrito Federal se subdividen en **335 municipios**, y estos en **1146 parroquias**. Las Dependencias Federales no tienen municipios.
 - Los municipios se rigen por el municipio con alcalde y concejo. Creo que los datos que nos interesan están aquí.
@@ -10,6 +12,9 @@
 - El Distrito Capital está formado por el municipio de Libertador con sede en la ciudad de Caracas.
 - Una ciudad puede incluir partes de varias parroquias e incluso partes de otros municipios (por ejemplo, la ciudad de Barquisimeto).
 - La **instancia legal** que asigna nombres a las carreteras son los municipios.
+
+La jurisdicción que asigna nombres a las calles y el sistema de numeración urbana es el municipio.
+
 
 # Licencia
 [Licencia CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es).
