@@ -1,4 +1,4 @@
-## Digital-preservation-VE
+# Digital-preservation-VE
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Venezuela**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
 A Venezuela se le asignó: en el contexto ISO&nbsp;3166&#8209;2 el geocódigo **VE** y el número **862**; en Wikidata el identificador [Q717](http://wikidata.org/entity/Q717); en OpenStreetMap el identificador de [*relación* 272644](http://osm.org/relation/272644).
@@ -13,7 +13,7 @@ El territorio nacional y sus subdivisiones representam **jurisdiciones**:
 
 * Los municipios son dividido en **1146 parroquias**. Las parroquias no tienen autonomía, sirven para elegir un concejal.
 
-Catastros urbanos se encuentran en los municipios.
+Los catastros urbanos se encuentran en los municipios.
 
 La jurisdicción que asigna nombres a las calles y el sistema de numeración urbana es el municipio.
 
