@@ -1,7 +1,7 @@
-# Digital-preservation-VE
+# preserv-VE
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Venezuela**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
-A Venezuela se le asignó: en el contexto ISO&nbsp;3166&#8209;2 el geocódigo **VE** y el número **862**; en Wikidata el identificador [Q717](http://wikidata.org/entity/Q717); en OpenStreetMap el identificador de [*relación* 272644](http://osm.org/relation/272644).
+A Venezuela se le asignó: en el contexto ISO 3166‑2 el geocódigo **VE** y el número **862**; en Wikidata el identificador [Q717](http://wikidata.org/entity/Q717); en OpenStreetMap el identificador de [*relación* 272644](http://osm.org/relation/272644).
 
 
 # Organización territorial
