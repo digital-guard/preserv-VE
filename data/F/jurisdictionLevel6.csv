@@ -1,0 +1,12 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+11039534,862,289,"Angostura del Orinoco",F,,2224320,angostura.orinoco,VE-F-AngosturaOrinoco,,
+11039535,862,200,Caroní,F,,,caroni,VE-F-Caroni,,
+3417855,862,69,Cedeño,F,,2448257,cedeno,VE-F-Cedeno,,
+11039539,862,293,"El Callao",F,,,el.callao,VE-F-ElCallao,,
+3418068,862,71,"Gran Sabana",F,,3113406,gran.sabana,VE-F-GranSabana,,
+11039536,862,290,"Padre Pedro Chien",F,,,padre.pedro.chien,VE-F-PadrePedroChien,,
+11039537,862,291,Piar,F,,2475688,piar,VE-F-Piar,,
+11039541,862,295,"Raúl Leoni",F,,1651292,raul.leoni,VE-F-RaulLeoni,,
+11039538,862,292,Roscio,F,,2100029,roscio,VE-F-Roscio,,
+11039540,862,294,Sifontes,F,,373198,sifontes,VE-F-Sifontes,,
+3417866,862,70,Sucre,F,,2662721,sucre,VE-F-Sucre,,

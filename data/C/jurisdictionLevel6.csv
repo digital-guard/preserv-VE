@@ -1,0 +1,8 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+3419320,862,73,Achaguas,C,,649153,achaguas,VE-C-Achaguas,,
+3419321,862,74,Biruaca,C,,,biruaca,VE-C-Biruaca,,
+3419322,862,75,Muñoz,C,,2537345,munoz,VE-C-Munoz,,
+3419323,862,76,"Pedro Camejo",C,,2574354,pedro.camejo,VE-C-PedroCamejo,,
+3419300,862,72,Páez,C,,2483236,paez,VE-C-Paez,,
+3419324,862,77,"Rómulo Gallegos",C,,2665199,romulo.gallegos,VE-C-RomuloGallegos,,
+3419325,862,78,"San Fernando",C,,,san.fernando,VE-C-SanFernando,,

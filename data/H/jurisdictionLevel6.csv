@@ -1,0 +1,10 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+11043137,862,299,Anzoátegui,H,,2545745,anzoategui,VE-H-Anzoategui,,
+11043134,862,296,Falcón,H,,,falcon,VE-H-Falcon,,
+11043142,862,304,Girardot,H,,922530,girardot,VE-H-Girardot,,
+11043135,862,297,"Lima Blanco",H,,2786560,lima.blanco,VE-H-LimaBlanco,,
+11043141,862,303,"Pao de San Juan Bautista",H,,1869244,pao.san.juan.bautista,VE-H-PaoSanJuanBautista,,
+11043138,862,300,Ricaurte,H,,2218342,ricaurte,VE-H-Ricaurte,,
+11043139,862,301,"Rómulo Gallegos",H,,,romulo.gallegos,VE-H-RomuloGallegos,,
+11043136,862,298,"San Carlos",H,,,san.carlos,VE-H-SanCarlos,,
+11043140,862,302,Tinaco,H,,,tinaco,VE-H-Tinaco,,

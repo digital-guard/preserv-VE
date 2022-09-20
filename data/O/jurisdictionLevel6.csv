@@ -1,0 +1,12 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+8150244,862,193,"Antolín del Campo",O,,2856992,antolin.campo,VE-O-AntolinCampo,,
+8150245,862,194,Arismendi,O,,1925791,arismendi,VE-O-Arismendi,,
+8150249,862,219,Díaz,O,,2068516,diaz,VE-O-Diaz,,
+8150248,862,218,García,O,,2029662,garcia,VE-O-Garcia,,
+8150243,862,192,Gómez,O,,2451657,gomez,VE-O-Gomez,,
+8150246,862,195,Maneiro,O,,3066174,maneiro,VE-O-Maneiro,,
+8150242,862,191,Marcano,O,,748134,marcano,VE-O-Marcano,,
+8150247,862,217,Mariño,O,,2413769,marino,VE-O-Marino,,
+8150251,862,221,"Península de Macanao",O,,2239704,peninsula.macanao,VE-O-PeninsulaMacanao,,
+8150250,862,220,Tubores,O,,2102962,tubores,VE-O-Tubores,,
+8150252,862,222,Villalba,O,,2208173,villalba,VE-O-Villalba,,

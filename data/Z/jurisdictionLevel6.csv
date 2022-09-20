@@ -1,0 +1,8 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+2730906,862,33,"Autònomo Alto Orinoco",Z,,32490960,autonomo.alto.orinoco,VE-Z-AutonomoAltoOrinoco,,
+2730907,862,21,"Autònomo Atabapo",Z,,32490964,autonomo.atabapo,VE-Z-AutonomoAtabapo,,
+2730908,862,22,"Autònomo Atures",Z,,,autonomo.atures,VE-Z-AutonomoAtures,,
+2730909,862,23,"Autónomo Autana",Z,,32490974,autonomo.autana,VE-Z-AutonomoAutana,,
+2730910,862,24,"Autónomo Manapiare",Z,,32490978,autonomo.manapiare,VE-Z-AutonomoManapiare,,
+2730911,862,25,"Autónomo Maroa",Z,,2673918,autonomo.maroa,VE-Z-AutonomoMaroa,,
+2730912,862,26,"Autónomo Río Negro",Z,,32490986,autonomo.rio.negro,VE-Z-AutonomoRioNegro,,

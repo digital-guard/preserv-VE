@@ -1,0 +1,13 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+3473017,862,150,"Archipiélago Los Frailes",W,,1685696,archipielago.frailes,VE-W-ArchipielagoFrailes,,
+3473014,862,147,"Archipiélago Los Hermanos",W,,,archipielago.hermanos,VE-W-ArchipielagoHermanos,,
+3473009,862,177,"Archipiélago Los Roques",W,,318678,archipielago.roques,VE-W-ArchipielagoRoques,,
+3473019,862,152,"Archipiélago Los Testigos",W,,1332426,archipielago.testigos,VE-W-ArchipielagoTestigos,,
+3473007,862,176,"Archipiélago de Las Aves",W,,,archipielago.aves,VE-W-ArchipielagoAves,,
+3473006,862,175,"Archipiélago de Los Monjes",W,,,archipielago.monjes,VE-W-ArchipielagoMonjes,,
+3473015,862,148,"Isla Blanquilla",W,,,isla.blanquilla,VE-W-IslaBlanquilla,,
+3473012,862,146,"Isla La Orchila",W,,,isla.orchila,VE-W-IslaOrchila,,
+3473018,862,178,"Isla La Sola",W,,,isla.sola,VE-W-IslaSola,,
+3473016,862,149,"Isla La Tortuga",W,,,isla.tortuga,VE-W-IslaTortuga,,
+3473022,862,179,"Isla de Aves",W,,,isla.aves,VE-W-IslaAves,,
+3473020,862,153,"Isla de Patos",W,,,isla.patos,VE-W-IslaPatos,,
