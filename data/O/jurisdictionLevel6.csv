@@ -1,12 +1,12 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-8150244,862,193,"Antolín del Campo",O,,2856992,antolin.campo,VE-O-AntolinCampo,,
-8150245,862,194,Arismendi,O,,1925791,arismendi,VE-O-Arismendi,,
-8150249,862,219,Díaz,O,,2068516,diaz,VE-O-Diaz,,
-8150248,862,218,García,O,,2029662,garcia,VE-O-Garcia,,
-8150243,862,192,Gómez,O,,2451657,gomez,VE-O-Gomez,,
-8150246,862,195,Maneiro,O,,3066174,maneiro,VE-O-Maneiro,,
-8150242,862,191,Marcano,O,,748134,marcano,VE-O-Marcano,,
-8150247,862,217,Mariño,O,,2413769,marino,VE-O-Marino,,
-8150251,862,221,"Península de Macanao",O,,2239704,peninsula.macanao,VE-O-PeninsulaMacanao,,
-8150250,862,220,Tubores,O,,2102962,tubores,VE-O-Tubores,,
-8150252,862,222,Villalba,O,,2208173,villalba,VE-O-Villalba,,
+8150244,862,193,"Antolín del Campo",O,,2856992,antolin.campo,VE-O-AntolinCampo,,"{""area_sr"": 0.00715, ""area_km2"": 86, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 9.3, ""side_estim_deg"": 0.0846, ""elongation_factor"": 1.73}"
+8150245,862,194,Arismendi,O,,1925791,arismendi,VE-O-Arismendi,,"{""area_sr"": 0.00422, ""area_km2"": 51, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 7.1, ""side_estim_deg"": 0.065, ""elongation_factor"": 1.65}"
+8150249,862,219,Díaz,O,,2068516,diaz,VE-O-Diaz,,"{""area_sr"": 0.0131, ""area_km2"": 158, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 12.6, ""side_estim_deg"": 0.1145, ""elongation_factor"": 1.84}"
+8150248,862,218,García,O,,2029662,garcia,VE-O-Garcia,,"{""area_sr"": 0.00659, ""area_km2"": 80, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 8.9, ""side_estim_deg"": 0.0812, ""elongation_factor"": 2.24}"
+8150243,862,192,Gómez,O,,2451657,gomez,VE-O-Gomez,,"{""area_sr"": 0.00734, ""area_km2"": 89, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 9.4, ""side_estim_deg"": 0.0857, ""elongation_factor"": 1.93}"
+8150246,862,195,Maneiro,O,,3066174,maneiro,VE-O-Maneiro,,"{""area_sr"": 0.00381, ""area_km2"": 46, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 6.8, ""side_estim_deg"": 0.0617, ""elongation_factor"": 1.81}"
+8150242,862,191,Marcano,O,,748134,marcano,VE-O-Marcano,,"{""area_sr"": 0.00396, ""area_km2"": 48, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 6.9, ""side_estim_deg"": 0.0629, ""elongation_factor"": 1.64}"
+8150247,862,217,Mariño,O,,2413769,marino,VE-O-Marino,,"{""area_sr"": 0.00453, ""area_km2"": 55, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 7.4, ""side_estim_deg"": 0.0673, ""elongation_factor"": 2.28}"
+8150251,862,221,"Península de Macanao",O,,2239704,peninsula.macanao,VE-O-PeninsulaMacanao,,"{""area_sr"": 0.02905, ""area_km2"": 351, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 18.7, ""side_estim_deg"": 0.1704, ""elongation_factor"": 1.23}"
+8150250,862,220,Tubores,O,,2102962,tubores,VE-O-Tubores,,"{""area_sr"": 0.02092, ""area_km2"": 253, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 15.9, ""side_estim_deg"": 0.1446, ""elongation_factor"": 2.36}"
+8150252,862,222,Villalba,O,,2208173,villalba,VE-O-Villalba,,"{""area_sr"": 0.00772, ""area_km2"": 93, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 9.7, ""side_estim_deg"": 0.0879, ""elongation_factor"": 1.15}"

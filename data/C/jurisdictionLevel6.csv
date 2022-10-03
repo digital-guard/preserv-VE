@@ -1,8 +1,8 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3419320,862,73,Achaguas,C,,649153,achaguas,VE-C-Achaguas,,
-3419321,862,74,Biruaca,C,,,biruaca,VE-C-Biruaca,,
-3419322,862,75,Muñoz,C,,2537345,munoz,VE-C-Munoz,,
-3419323,862,76,"Pedro Camejo",C,,2574354,pedro.camejo,VE-C-PedroCamejo,,
-3419300,862,72,Páez,C,,2483236,paez,VE-C-Paez,,
-3419324,862,77,"Rómulo Gallegos",C,,2665199,romulo.gallegos,VE-C-RomuloGallegos,,
-3419325,862,78,"San Fernando",C,,,san.fernando,VE-C-SanFernando,,
+3419320,862,73,Achaguas,C,,649153,achaguas,VE-C-Achaguas,,"{""area_sr"": 1.14193, ""area_km2"": 13945, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 118.1, ""side_estim_deg"": 1.0686, ""elongation_factor"": 1.51}"
+3419321,862,74,Biruaca,C,,,biruaca,VE-C-Biruaca,,"{""area_sr"": 0.0911, ""area_km2"": 1111, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 33.3, ""side_estim_deg"": 0.3018, ""elongation_factor"": 2.15}"
+3419322,862,75,Muñoz,C,,2537345,munoz,VE-C-Munoz,,"{""area_sr"": 0.63849, ""area_km2"": 7791, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 88.3, ""side_estim_deg"": 0.7991, ""elongation_factor"": 1.2}"
+3419323,862,76,"Pedro Camejo",C,,2574354,pedro.camejo,VE-C-PedroCamejo,,"{""area_sr"": 1.71475, ""area_km2"": 20963, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 144.8, ""side_estim_deg"": 1.3095, ""elongation_factor"": 2.65}"
+3419300,862,72,Páez,C,,2483236,paez,VE-C-Paez,,"{""area_sr"": 0.98982, ""area_km2"": 12088, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 109.9, ""side_estim_deg"": 0.9949, ""elongation_factor"": 3.43}"
+3419324,862,77,"Rómulo Gallegos",C,,2665199,romulo.gallegos,VE-C-RomuloGallegos,,"{""area_sr"": 0.97456, ""area_km2"": 11913, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 109.1, ""side_estim_deg"": 0.9872, ""elongation_factor"": 1.99}"
+3419325,862,78,"San Fernando",C,,,san.fernando,VE-C-SanFernando,,"{""area_sr"": 0.4534, ""area_km2"": 5534, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 74.4, ""side_estim_deg"": 0.6733, ""elongation_factor"": 2.44}"

@@ -1,10 +1,10 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3919033,862,180,"Andrés Eloy Blanco",K,,524054,andres.eloy.blanco,VE-K-AndresEloyBlanco,,
-3919034,862,181,Crespo,K,,1913811,crespo,VE-K-Crespo,,
-3919035,862,182,Iribarren,K,,2435584,iribarren,VE-K-Iribarren,,
-3919036,862,183,Jiménez,K,,952348,jimenez,VE-K-Jimenez,,
-3933338,862,188,Morán,K,,,moran,VE-K-Moran,,
-3919037,862,184,Palavecino,K,,2307377,palavecino,VE-K-Palavecino,,
-3919038,862,185,"Simón Planas",K,,3088394,simon.planas,VE-K-SimonPlanas,,
-3919039,862,186,Torres,K,,3132001,torres,VE-K-Torres,,
-3919040,862,187,Urdaneta,K,,2269268,urdaneta,VE-K-Urdaneta,,
+3919033,862,180,"Andrés Eloy Blanco",K,,524054,andres.eloy.blanco,VE-K-AndresEloyBlanco,,"{""area_sr"": 0.06853, ""area_km2"": 832, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 28.8, ""side_estim_deg"": 0.2618, ""elongation_factor"": 1.84}"
+3919034,862,181,Crespo,K,,1913811,crespo,VE-K-Crespo,,"{""area_sr"": 0.06324, ""area_km2"": 766, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 27.7, ""side_estim_deg"": 0.2515, ""elongation_factor"": 1.77}"
+3919035,862,182,Iribarren,K,,2435584,iribarren,VE-K-Iribarren,,"{""area_sr"": 0.22533, ""area_km2"": 2731, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 52.3, ""side_estim_deg"": 0.4747, ""elongation_factor"": 2.03}"
+3919036,862,183,Jiménez,K,,952348,jimenez,VE-K-Jimenez,,"{""area_sr"": 0.07078, ""area_km2"": 859, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 29.3, ""side_estim_deg"": 0.266, ""elongation_factor"": 1.66}"
+3933338,862,188,Morán,K,,,moran,VE-K-Moran,,"{""area_sr"": 0.18533, ""area_km2"": 2250, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 47.4, ""side_estim_deg"": 0.4305, ""elongation_factor"": 2.33}"
+3919037,862,184,Palavecino,K,,2307377,palavecino,VE-K-Palavecino,,"{""area_sr"": 0.02155, ""area_km2"": 261, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 16.2, ""side_estim_deg"": 0.1468, ""elongation_factor"": 1.01}"
+3919038,862,185,"Simón Planas",K,,3088394,simon.planas,VE-K-SimonPlanas,,"{""area_sr"": 0.07032, ""area_km2"": 853, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 29.2, ""side_estim_deg"": 0.2652, ""elongation_factor"": 1.77}"
+3919039,862,186,Torres,K,,3132001,torres,VE-K-Torres,,"{""area_sr"": 0.60547, ""area_km2"": 7339, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 85.7, ""side_estim_deg"": 0.7781, ""elongation_factor"": 2.01}"
+3919040,862,187,Urdaneta,K,,2269268,urdaneta,VE-K-Urdaneta,,"{""area_sr"": 0.29414, ""area_km2"": 3561, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 59.7, ""side_estim_deg"": 0.5423, ""elongation_factor"": 3.09}"

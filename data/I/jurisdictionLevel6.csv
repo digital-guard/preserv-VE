@@ -1,26 +1,26 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3460133,862,136,Acosta,I,,2745788,acosta,VE-I-Acosta,,
-3460083,862,121,Bolívar,I,,2909570,bolivar,VE-I-Bolivar,,
-3460066,862,111,Buchivacoa,I,,,buchivacoa,VE-I-Buchivacoa,,
-3460134,862,171,"Cacique Manaure",I,,,cacique.manaure,VE-I-CaciqueManaure,,
-3460146,862,142,Carirubana,I,,,carirubana,VE-I-Carirubana,,
-3460147,862,143,Colina,I,,,colina,VE-I-Colina,,
-3460067,862,112,Dabajuro,I,,,dabajuro,VE-I-Dabajuro,,
-3460068,862,113,Democracia,I,,,democracia,VE-I-Democracia,,
-3460148,862,144,Falcón,I,,2772399,falcon,VE-I-Falcon,,
-3460084,862,122,Federación,I,,,federacion,VE-I-Federacion,,
-3460085,862,124,Jacura,I,,,jacura,VE-I-Jacura,,
-3460149,862,174,"Los Taques",I,,,los.taques,VE-I-LosTaques,,
-3460069,862,116,Mauroa,I,,,mauroa,VE-I-Mauroa,,
-3460135,862,172,Miranda,I,,1910828,miranda,VE-I-Miranda,,
-3460086,862,125,"Monseñor Iturriza",I,,,monsenor.iturriza,VE-I-MonsenorIturriza,,
-3460087,862,126,Palmasola,I,,,palmasola,VE-I-Palmasola,,
-3460088,862,127,Petit,I,,,petit,VE-I-Petit,,
-3460136,862,173,Píritu,I,,,piritu,VE-I-Piritu,,
-3460137,862,139,"San Francisco",I,,,san.francisco,VE-I-SanFrancisco,,
-3460089,862,128,Silva,I,,,silva,VE-I-Silva,,
-3460090,862,134,Sucre,I,,,sucre,VE-I-Sucre,,
-3460138,862,140,Tocópero,I,,,tocopero,VE-I-Tocopero,,
-3460091,862,135,Unión,I,,,union,VE-I-Union,,
-3460070,862,170,Urumaco,I,,,urumaco,VE-I-Urumaco,,
-3460139,862,141,Zamora,I,,2184913,zamora,VE-I-Zamora,,
+3460133,862,136,Acosta,I,,2745788,acosta,VE-I-Acosta,,"{""area_sr"": 0.07577, ""area_km2"": 915, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 30.3, ""side_estim_deg"": 0.2753, ""elongation_factor"": 2.28}"
+3460083,862,121,Bolívar,I,,2909570,bolivar,VE-I-Bolivar,,"{""area_sr"": 0.03436, ""area_km2"": 415, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 20.4, ""side_estim_deg"": 0.1854, ""elongation_factor"": 2.61}"
+3460066,862,111,Buchivacoa,I,,,buchivacoa,VE-I-Buchivacoa,,"{""area_sr"": 0.28019, ""area_km2"": 3388, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 58.2, ""side_estim_deg"": 0.5293, ""elongation_factor"": 3.31}"
+3460134,862,171,"Cacique Manaure",I,,,cacique.manaure,VE-I-CaciqueManaure,,"{""area_sr"": 0.01787, ""area_km2"": 216, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 14.7, ""side_estim_deg"": 0.1337, ""elongation_factor"": 1.53}"
+3460146,862,142,Carirubana,I,,,carirubana,VE-I-Carirubana,,"{""area_sr"": 0.06129, ""area_km2"": 739, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 27.2, ""side_estim_deg"": 0.2476, ""elongation_factor"": 1.58}"
+3460147,862,143,Colina,I,,,colina,VE-I-Colina,,"{""area_sr"": 0.04825, ""area_km2"": 583, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 24.1, ""side_estim_deg"": 0.2197, ""elongation_factor"": 2.37}"
+3460067,862,112,Dabajuro,I,,,dabajuro,VE-I-Dabajuro,,"{""area_sr"": 0.10334, ""area_km2"": 1250, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 35.4, ""side_estim_deg"": 0.3215, ""elongation_factor"": 2.49}"
+3460068,862,113,Democracia,I,,,democracia,VE-I-Democracia,,"{""area_sr"": 0.22172, ""area_km2"": 2682, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 51.8, ""side_estim_deg"": 0.4709, ""elongation_factor"": 2}"
+3460148,862,144,Falcón,I,,2772399,falcon,VE-I-Falcon,,"{""area_sr"": 0.15955, ""area_km2"": 1922, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 43.8, ""side_estim_deg"": 0.3994, ""elongation_factor"": 2.06}"
+3460084,862,122,Federación,I,,,federacion,VE-I-Federacion,,"{""area_sr"": 0.11653, ""area_km2"": 1410, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 37.5, ""side_estim_deg"": 0.3414, ""elongation_factor"": 2.16}"
+3460085,862,124,Jacura,I,,,jacura,VE-I-Jacura,,"{""area_sr"": 0.18155, ""area_km2"": 2195, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 46.8, ""side_estim_deg"": 0.4261, ""elongation_factor"": 1.62}"
+3460149,862,174,"Los Taques",I,,,los.taques,VE-I-LosTaques,,"{""area_sr"": 0.02429, ""area_km2"": 293, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 17.1, ""side_estim_deg"": 0.1558, ""elongation_factor"": 1.53}"
+3460069,862,116,Mauroa,I,,,mauroa,VE-I-Mauroa,,"{""area_sr"": 0.17464, ""area_km2"": 2113, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 46, ""side_estim_deg"": 0.4179, ""elongation_factor"": 1.71}"
+3460135,862,172,Miranda,I,,1910828,miranda,VE-I-Miranda,,"{""area_sr"": 0.19331, ""area_km2"": 2334, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 48.3, ""side_estim_deg"": 0.4397, ""elongation_factor"": 2.31}"
+3460086,862,125,"Monseñor Iturriza",I,,,monsenor.iturriza,VE-I-MonsenorIturriza,,"{""area_sr"": 0.08503, ""area_km2"": 1028, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 32.1, ""side_estim_deg"": 0.2916, ""elongation_factor"": 3.58}"
+3460087,862,126,Palmasola,I,,,palmasola,VE-I-Palmasola,,"{""area_sr"": 0.02186, ""area_km2"": 265, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 16.3, ""side_estim_deg"": 0.1478, ""elongation_factor"": 1.55}"
+3460088,862,127,Petit,I,,,petit,VE-I-Petit,,"{""area_sr"": 0.09387, ""area_km2"": 1134, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 33.7, ""side_estim_deg"": 0.3064, ""elongation_factor"": 2.06}"
+3460136,862,173,Píritu,I,,,piritu,VE-I-Piritu,,"{""area_sr"": 0.11123, ""area_km2"": 1343, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 36.6, ""side_estim_deg"": 0.3335, ""elongation_factor"": 1.22}"
+3460137,862,139,"San Francisco",I,,,san.francisco,VE-I-SanFrancisco,,"{""area_sr"": 0.03017, ""area_km2"": 365, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.1, ""side_estim_deg"": 0.1737, ""elongation_factor"": 1.68}"
+3460089,862,128,Silva,I,,,silva,VE-I-Silva,,"{""area_sr"": 0.07563, ""area_km2"": 915, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 30.2, ""side_estim_deg"": 0.275, ""elongation_factor"": 2.11}"
+3460090,862,134,Sucre,I,,,sucre,VE-I-Sucre,,"{""area_sr"": 0.06566, ""area_km2"": 794, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 28.2, ""side_estim_deg"": 0.2562, ""elongation_factor"": 1.47}"
+3460138,862,140,Tocópero,I,,,tocopero,VE-I-Tocopero,,"{""area_sr"": 0.00869, ""area_km2"": 105, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 10.2, ""side_estim_deg"": 0.0932, ""elongation_factor"": 1.25}"
+3460091,862,135,Unión,I,,,union,VE-I-Union,,"{""area_sr"": 0.08362, ""area_km2"": 1011, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 31.8, ""side_estim_deg"": 0.2892, ""elongation_factor"": 2.69}"
+3460070,862,170,Urumaco,I,,,urumaco,VE-I-Urumaco,,"{""area_sr"": 0.07541, ""area_km2"": 911, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 30.2, ""side_estim_deg"": 0.2746, ""elongation_factor"": 1.84}"
+3460139,862,141,Zamora,I,,2184913,zamora,VE-I-Zamora,,"{""area_sr"": 0.06203, ""area_km2"": 749, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 27.4, ""side_estim_deg"": 0.2491, ""elongation_factor"": 1.89}"

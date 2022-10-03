@@ -1,22 +1,22 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3356595,862,62,Acevedo,M,,2625145,acevedo,VE-M-Acevedo,,
-3356958,862,64,"Andrés Bello",M,,2171229,andres.bello,VE-M-AndresBello,,
-3335760,862,49,Baruta,M,,761148,baruta,VE-M-Baruta,,
-3356952,862,63,Brión,M,,260682,brion,VE-M-Brion,,
-3372159,862,68,Buróz,M,,751150,buroz,VE-M-Buroz,,
-2458069,862,29,Carrizal,M,,2078261,carrizal,VE-M-Carrizal,,
-3335672,862,48,Chacao,M,,374734,chacao,VE-M-Chacao,,
-3349738,862,56,"Cristóbal Rojas",M,,,cristobal.rojas,VE-M-CristobalRojas,,
-2458293,862,30,"El Hatillo",M,,975765,el.hatillo,VE-M-ElHatillo,,
-3337388,862,51,Guaicaipuro,M,,1090454,guaicaipuro,VE-M-Guaicaipuro,,
-3349736,862,55,Independencia,M,,,independencia,VE-M-Independencia,,
-3349785,862,57,Lander,M,,1811782,lander,VE-M-Lander,,
-3337496,862,52,"Los Salias",M,,,los.salias,VE-M-LosSalias,,
-3339667,862,53,"Paz Castillo",M,,1149232,paz.castillo,VE-M-PazCastillo,,
-3356996,862,66,"Pedro Gual",M,,2388590,pedro.gual,VE-M-PedroGual,,
-3349941,862,60,Plaza,M,,1149242,plaza,VE-M-Plaza,,
-3356959,862,65,Páez,M,,3087978,paez,VE-M-Paez,,
-3349737,862,58,"Simón Bolivar",M,,2520836,simon.bolivar,VE-M-SimonBolivar,,
-3335761,862,50,Sucre,M,,,sucre,VE-M-Sucre,,
-3345533,862,54,Urdaneta,M,,2569928,urdaneta,VE-M-Urdaneta,,
-3351338,862,61,Zamora,M,,1129558,zamora,VE-M-Zamora,,
+3356595,862,62,Acevedo,M,,2625145,acevedo,VE-M-Acevedo,,"{""area_sr"": 0.16949, ""area_km2"": 2054, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 45.3, ""side_estim_deg"": 0.4117, ""elongation_factor"": 1.79}"
+3356958,862,64,"Andrés Bello",M,,2171229,andres.bello,VE-M-AndresBello,,"{""area_sr"": 0.01029, ""area_km2"": 125, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 11.2, ""side_estim_deg"": 0.1015, ""elongation_factor"": 2.47}"
+3335760,862,49,Baruta,M,,761148,baruta,VE-M-Baruta,,"{""area_sr"": 0.00782, ""area_km2"": 95, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 9.7, ""side_estim_deg"": 0.0884, ""elongation_factor"": 2.8}"
+3356952,862,63,Brión,M,,260682,brion,VE-M-Brion,,"{""area_sr"": 0.05406, ""area_km2"": 655, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 25.6, ""side_estim_deg"": 0.2325, ""elongation_factor"": 2.28}"
+3372159,862,68,Buróz,M,,751150,buroz,VE-M-Buroz,,"{""area_sr"": 0.01799, ""area_km2"": 218, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 14.8, ""side_estim_deg"": 0.1341, ""elongation_factor"": 2.07}"
+2458069,862,29,Carrizal,M,,2078261,carrizal,VE-M-Carrizal,,"{""area_sr"": 0.00255, ""area_km2"": 31, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 5.6, ""side_estim_deg"": 0.0504, ""elongation_factor"": 1.96}"
+3335672,862,48,Chacao,M,,374734,chacao,VE-M-Chacao,,"{""area_sr"": 0.00156, ""area_km2"": 19, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 4.3, ""side_estim_deg"": 0.0394, ""elongation_factor"": 1.56}"
+3349738,862,56,"Cristóbal Rojas",M,,,cristobal.rojas,VE-M-CristobalRojas,,"{""area_sr"": 0.01345, ""area_km2"": 163, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 12.8, ""side_estim_deg"": 0.116, ""elongation_factor"": 1.59}"
+2458293,862,30,"El Hatillo",M,,975765,el.hatillo,VE-M-ElHatillo,,"{""area_sr"": 0.00924, ""area_km2"": 112, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 10.6, ""side_estim_deg"": 0.0961, ""elongation_factor"": 1.88}"
+3337388,862,51,Guaicaipuro,M,,1090454,guaicaipuro,VE-M-Guaicaipuro,,"{""area_sr"": 0.06631, ""area_km2"": 804, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 28.3, ""side_estim_deg"": 0.2575, ""elongation_factor"": 2.35}"
+3349736,862,55,Independencia,M,,,independencia,VE-M-Independencia,,"{""area_sr"": 0.02749, ""area_km2"": 333, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 18.3, ""side_estim_deg"": 0.1658, ""elongation_factor"": 1.93}"
+3349785,862,57,Lander,M,,1811782,lander,VE-M-Lander,,"{""area_sr"": 0.04282, ""area_km2"": 519, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 22.8, ""side_estim_deg"": 0.2069, ""elongation_factor"": 2}"
+3337496,862,52,"Los Salias",M,,,los.salias,VE-M-LosSalias,,"{""area_sr"": 0.00465, ""area_km2"": 56, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 7.5, ""side_estim_deg"": 0.0682, ""elongation_factor"": 1.87}"
+3339667,862,53,"Paz Castillo",M,,1149232,paz.castillo,VE-M-PazCastillo,,"{""area_sr"": 0.0356, ""area_km2"": 431, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 20.8, ""side_estim_deg"": 0.1887, ""elongation_factor"": 1.8}"
+3356996,862,66,"Pedro Gual",M,,2388590,pedro.gual,VE-M-PedroGual,,"{""area_sr"": 0.08666, ""area_km2"": 1051, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 32.4, ""side_estim_deg"": 0.2944, ""elongation_factor"": 1.74}"
+3349941,862,60,Plaza,M,,1149242,plaza,VE-M-Plaza,,"{""area_sr"": 0.01598, ""area_km2"": 193, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 13.9, ""side_estim_deg"": 0.1264, ""elongation_factor"": 0.88}"
+3356959,862,65,Páez,M,,3087978,paez,VE-M-Paez,,"{""area_sr"": 0.09076, ""area_km2"": 1100, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 33.2, ""side_estim_deg"": 0.3013, ""elongation_factor"": 2.09}"
+3349737,862,58,"Simón Bolivar",M,,2520836,simon.bolivar,VE-M-SimonBolivar,,"{""area_sr"": 0.01331, ""area_km2"": 161, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 12.7, ""side_estim_deg"": 0.1154, ""elongation_factor"": 1.72}"
+3335761,862,50,Sucre,M,,,sucre,VE-M-Sucre,,"{""area_sr"": 0.0143, ""area_km2"": 173, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 13.2, ""side_estim_deg"": 0.1196, ""elongation_factor"": 1.78}"
+3345533,862,54,Urdaneta,M,,2569928,urdaneta,VE-M-Urdaneta,,"{""area_sr"": 0.02472, ""area_km2"": 300, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 17.3, ""side_estim_deg"": 0.1572, ""elongation_factor"": 1.43}"
+3351338,862,61,Zamora,M,,1129558,zamora,VE-M-Zamora,,"{""area_sr"": 0.03699, ""area_km2"": 448, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 21.2, ""side_estim_deg"": 0.1923, ""elongation_factor"": 1.69}"

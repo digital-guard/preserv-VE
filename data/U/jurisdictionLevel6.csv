@@ -1,15 +1,15 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-11126516,862,343,"Arístides Bastidas",U,,,aristides.bastidas,VE-U-AristidesBastidas,,
-11126519,862,346,Bolívar,U,,2014715,bolivar,VE-U-Bolivar,,
-11126510,862,340,Bruzual,U,,2927131,bruzual,VE-U-Bruzual,,
-11126513,862,286,Cocorote,U,,,cocorote,VE-U-Cocorote,,
-11126512,862,283,Independencia,U,,,independencia,VE-U-Independencia,,
-11126517,862,344,"José Antonio Páez",U,,,jose.antonio.paez,VE-U-JoseAntonioPaez,,
-11126515,862,305,"La Trinidad",U,,,la.trinidad,VE-U-LaTrinidad,,
-11126520,862,347,"Manuel Monge",U,,,manuel.monge,VE-U-ManuelMonge,,
-11126507,862,337,Nirgua,U,,,nirgua,VE-U-Nirgua,,
-11126511,862,341,Peña,U,,,pena,VE-U-Pena,,
-11126509,862,339,"San Felipe",U,,,san.felipe,VE-U-SanFelipe,,
-11126514,862,342,Sucre,U,,,sucre,VE-U-Sucre,,
-11126518,862,345,Urachiche,U,,,urachiche,VE-U-Urachiche,,
-11126508,862,338,Veroes,U,,,veroes,VE-U-Veroes,,
+11126516,862,343,"Arístides Bastidas",U,,,aristides.bastidas,VE-U-AristidesBastidas,,"{""area_sr"": 0.0053, ""area_km2"": 64, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 8, ""side_estim_deg"": 0.0728, ""elongation_factor"": 2.17}"
+11126519,862,346,Bolívar,U,,2014715,bolivar,VE-U-Bolivar,,"{""area_sr"": 0.0698, ""area_km2"": 845, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 29.1, ""side_estim_deg"": 0.2642, ""elongation_factor"": 1.91}"
+11126510,862,340,Bruzual,U,,2927131,bruzual,VE-U-Bruzual,,"{""area_sr"": 0.03003, ""area_km2"": 364, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.1, ""side_estim_deg"": 0.1733, ""elongation_factor"": 2.1}"
+11126513,862,286,Cocorote,U,,,cocorote,VE-U-Cocorote,,"{""area_sr"": 0.00641, ""area_km2"": 78, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 8.8, ""side_estim_deg"": 0.0801, ""elongation_factor"": 2.93}"
+11126512,862,283,Independencia,U,,,independencia,VE-U-Independencia,,"{""area_sr"": 0.00688, ""area_km2"": 83, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 9.1, ""side_estim_deg"": 0.0829, ""elongation_factor"": 2.48}"
+11126517,862,344,"José Antonio Páez",U,,,jose.antonio.paez,VE-U-JoseAntonioPaez,,"{""area_sr"": 0.00953, ""area_km2"": 116, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 10.7, ""side_estim_deg"": 0.0976, ""elongation_factor"": 1.84}"
+11126515,862,305,"La Trinidad",U,,,la.trinidad,VE-U-LaTrinidad,,"{""area_sr"": 0.00407, ""area_km2"": 49, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 7, ""side_estim_deg"": 0.0638, ""elongation_factor"": 2.07}"
+11126520,862,347,"Manuel Monge",U,,,manuel.monge,VE-U-ManuelMonge,,"{""area_sr"": 0.03377, ""area_km2"": 409, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 20.2, ""side_estim_deg"": 0.1838, ""elongation_factor"": 2.47}"
+11126507,862,337,Nirgua,U,,,nirgua,VE-U-Nirgua,,"{""area_sr"": 0.15982, ""area_km2"": 1938, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 44, ""side_estim_deg"": 0.3998, ""elongation_factor"": 2.27}"
+11126511,862,341,Peña,U,,,pena,VE-U-Pena,,"{""area_sr"": 0.03485, ""area_km2"": 423, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 20.6, ""side_estim_deg"": 0.1867, ""elongation_factor"": 2.17}"
+11126509,862,339,"San Felipe",U,,,san.felipe,VE-U-SanFelipe,,"{""area_sr"": 0.03273, ""area_km2"": 396, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.9, ""side_estim_deg"": 0.1809, ""elongation_factor"": 2.57}"
+11126514,862,342,Sucre,U,,,sucre,VE-U-Sucre,,"{""area_sr"": 0.01197, ""area_km2"": 145, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 12, ""side_estim_deg"": 0.1094, ""elongation_factor"": 2.46}"
+11126518,862,345,Urachiche,U,,,urachiche,VE-U-Urachiche,,"{""area_sr"": 0.01604, ""area_km2"": 194, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 13.9, ""side_estim_deg"": 0.1267, ""elongation_factor"": 2.62}"
+11126508,862,338,Veroes,U,,,veroes,VE-U-Veroes,,"{""area_sr"": 0.08249, ""area_km2"": 999, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 31.6, ""side_estim_deg"": 0.2872, ""elongation_factor"": 2.11}"

@@ -1,19 +1,19 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-2256357,862,18,Bolívar,D,,2615175,bolivar,VE-D-Bolivar,,
-11023949,862,278,Camatagua,D,,,camatagua,VE-D-Camatagua,,
-11023956,862,287,"Francisco Linares Alcántara",D,,,francisco.linares.alcantara,VE-D-FranciscoLinaresAlcantara,,
-2689580,862,31,Girardot,D,,,girardot,VE-D-Girardot,,
-2256363,862,19,"José Félix Ribas",D,,,jose.felix.ribas,VE-D-JoseFelixRibas,,
-2256364,862,20,"José Rafael Revenga",D,,,jose.rafael.revenga,VE-D-JoseRafaelRevenga,,
-11023954,862,284,"José Ángel Lamas",D,,,jose.angel.lamas,VE-D-JoseAngelLamas,,
-11023955,862,285,Libertador,D,,,libertador,VE-D-Libertador,,
-11210009,862,348,"Mario Briceño Iragorry",D,,2536391,mario.briceno.iragorry,VE-D-MarioBricenoIragorry,,
-9998351,862,196,"Ocumare de La Costa de Oro",D,,1864734,ocumare.la.costa.oro,VE-D-OcumareLaCostaOro,,
-11023950,862,279,"San Casimiro",D,,,san.casimiro,VE-D-SanCasimiro,,
-11023951,862,280,"San Sebastián",D,,642788,san.sebastian,VE-D-SanSebastian,,
-9998350,862,246,"Santiago Mariño",D,,,santiago.marino,VE-D-SantiagoMarino,,
-11023952,862,281,"Santos Michelena",D,,,santos.michelena,VE-D-SantosMichelena,,
-2256367,862,27,Sucre,D,,2135040,sucre,VE-D-Sucre,,
-2256317,862,17,Tovar,D,,,tovar,VE-D-Tovar,,
-11023948,862,277,Urdaneta,D,,,urdaneta,VE-D-Urdaneta,,
-11023953,862,282,Zamora,D,,,zamora,VE-D-Zamora,,
+2256357,862,18,Bolívar,D,,2615175,bolivar,VE-D-Bolivar,,"{""area_sr"": 0.00479, ""area_km2"": 58, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 7.6, ""side_estim_deg"": 0.0692, ""elongation_factor"": 1.62}"
+11023949,862,278,Camatagua,D,,,camatagua,VE-D-Camatagua,,"{""area_sr"": 0.07383, ""area_km2"": 896, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 29.9, ""side_estim_deg"": 0.2717, ""elongation_factor"": 1.75}"
+11023956,862,287,"Francisco Linares Alcántara",D,,,francisco.linares.alcantara,VE-D-FranciscoLinaresAlcantara,,"{""area_sr"": 0.00203, ""area_km2"": 25, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 5, ""side_estim_deg"": 0.045, ""elongation_factor"": 2.59}"
+2689580,862,31,Girardot,D,,,girardot,VE-D-Girardot,,"{""area_sr"": 0.02513, ""area_km2"": 304, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 17.4, ""side_estim_deg"": 0.1585, ""elongation_factor"": 2.3}"
+2256363,862,19,"José Félix Ribas",D,,,jose.felix.ribas,VE-D-JoseFelixRibas,,"{""area_sr"": 0.03205, ""area_km2"": 388, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.7, ""side_estim_deg"": 0.179, ""elongation_factor"": 1.84}"
+2256364,862,20,"José Rafael Revenga",D,,,jose.rafael.revenga,VE-D-JoseRafaelRevenga,,"{""area_sr"": 0.01456, ""area_km2"": 176, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 13.3, ""side_estim_deg"": 0.1207, ""elongation_factor"": 1.15}"
+11023954,862,284,"José Ángel Lamas",D,,,jose.angel.lamas,VE-D-JoseAngelLamas,,"{""area_sr"": 0.00224, ""area_km2"": 27, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 5.2, ""side_estim_deg"": 0.0473, ""elongation_factor"": 1.08}"
+11023955,862,285,Libertador,D,,,libertador,VE-D-Libertador,,"{""area_sr"": 0.0045, ""area_km2"": 55, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 7.4, ""side_estim_deg"": 0.0671, ""elongation_factor"": 1.39}"
+11210009,862,348,"Mario Briceño Iragorry",D,,2536391,mario.briceno.iragorry,VE-D-MarioBricenoIragorry,,"{""area_sr"": 0.00519, ""area_km2"": 63, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 7.9, ""side_estim_deg"": 0.072, ""elongation_factor"": 1.55}"
+9998351,862,196,"Ocumare de La Costa de Oro",D,,1864734,ocumare.la.costa.oro,VE-D-OcumareLaCostaOro,,"{""area_sr"": 0.03553, ""area_km2"": 430, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 20.7, ""side_estim_deg"": 0.1885, ""elongation_factor"": 1.21}"
+11023950,862,279,"San Casimiro",D,,,san.casimiro,VE-D-SanCasimiro,,"{""area_sr"": 0.04204, ""area_km2"": 510, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 22.6, ""side_estim_deg"": 0.205, ""elongation_factor"": 1.94}"
+11023951,862,280,"San Sebastián",D,,642788,san.sebastian,VE-D-SanSebastian,,"{""area_sr"": 0.04179, ""area_km2"": 507, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 22.5, ""side_estim_deg"": 0.2044, ""elongation_factor"": 2.03}"
+9998350,862,246,"Santiago Mariño",D,,,santiago.marino,VE-D-SantiagoMarino,,"{""area_sr"": 0.04234, ""area_km2"": 513, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 22.6, ""side_estim_deg"": 0.2058, ""elongation_factor"": 1.6}"
+11023952,862,281,"Santos Michelena",D,,,santos.michelena,VE-D-SantosMichelena,,"{""area_sr"": 0.01761, ""area_km2"": 213, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 14.6, ""side_estim_deg"": 0.1327, ""elongation_factor"": 1.59}"
+2256367,862,27,Sucre,D,,2135040,sucre,VE-D-Sucre,,"{""area_sr"": 0.00539, ""area_km2"": 65, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 8.1, ""side_estim_deg"": 0.0734, ""elongation_factor"": 1.71}"
+2256317,862,17,Tovar,D,,,tovar,VE-D-Tovar,,"{""area_sr"": 0.02394, ""area_km2"": 290, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 17, ""side_estim_deg"": 0.1547, ""elongation_factor"": 2.75}"
+11023948,862,277,Urdaneta,D,,,urdaneta,VE-D-Urdaneta,,"{""area_sr"": 0.16468, ""area_km2"": 2000, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 44.7, ""side_estim_deg"": 0.4058, ""elongation_factor"": 2.42}"
+11023953,862,282,Zamora,D,,,zamora,VE-D-Zamora,,"{""area_sr"": 0.05503, ""area_km2"": 667, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 25.8, ""side_estim_deg"": 0.2346, ""elongation_factor"": 2.3}"

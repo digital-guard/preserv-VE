@@ -1,13 +1,13 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3473017,862,150,"Archipiélago Los Frailes",W,,1685696,archipielago.frailes,VE-W-ArchipielagoFrailes,,
-3473014,862,147,"Archipiélago Los Hermanos",W,,,archipielago.hermanos,VE-W-ArchipielagoHermanos,,
-3473009,862,177,"Archipiélago Los Roques",W,,318678,archipielago.roques,VE-W-ArchipielagoRoques,,
-3473019,862,152,"Archipiélago Los Testigos",W,,1332426,archipielago.testigos,VE-W-ArchipielagoTestigos,,
-3473007,862,176,"Archipiélago de Las Aves",W,,,archipielago.aves,VE-W-ArchipielagoAves,,
-3473006,862,175,"Archipiélago de Los Monjes",W,,,archipielago.monjes,VE-W-ArchipielagoMonjes,,
-3473015,862,148,"Isla Blanquilla",W,,,isla.blanquilla,VE-W-IslaBlanquilla,,
-3473012,862,146,"Isla La Orchila",W,,,isla.orchila,VE-W-IslaOrchila,,
-3473018,862,178,"Isla La Sola",W,,,isla.sola,VE-W-IslaSola,,
-3473016,862,149,"Isla La Tortuga",W,,,isla.tortuga,VE-W-IslaTortuga,,
-3473022,862,179,"Isla de Aves",W,,,isla.aves,VE-W-IslaAves,,
-3473020,862,153,"Isla de Patos",W,,,isla.patos,VE-W-IslaPatos,,
+3473017,862,150,"Archipiélago Los Frailes",W,,1685696,archipielago.frailes,VE-W-ArchipielagoFrailes,,"{""area_sr"": 0.00238, ""area_km2"": 29, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 5.4, ""side_estim_deg"": 0.0488, ""elongation_factor"": 2.1}"
+3473014,862,147,"Archipiélago Los Hermanos",W,,,archipielago.hermanos,VE-W-ArchipielagoHermanos,,"{""area_sr"": 0.0285, ""area_km2"": 344, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 18.5, ""side_estim_deg"": 0.1688}"
+3473009,862,177,"Archipiélago Los Roques",W,,318678,archipielago.roques,VE-W-ArchipielagoRoques,,"{""area_sr"": 0.12578, ""area_km2"": 1516, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 38.9, ""side_estim_deg"": 0.3547}"
+3473019,862,152,"Archipiélago Los Testigos",W,,1332426,archipielago.testigos,VE-W-ArchipielagoTestigos,,"{""area_sr"": 0.03207, ""area_km2"": 387, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.7, ""side_estim_deg"": 0.1791}"
+3473007,862,176,"Archipiélago de Las Aves",W,,,archipielago.aves,VE-W-ArchipielagoAves,,"{""area_sr"": 0.0542, ""area_km2"": 653, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 25.6, ""side_estim_deg"": 0.2328, ""elongation_factor"": 1.9}"
+3473006,862,175,"Archipiélago de Los Monjes",W,,,archipielago.monjes,VE-W-ArchipielagoMonjes,,"{""area_sr"": 0.03256, ""area_km2"": 392, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.8, ""side_estim_deg"": 0.1804, ""elongation_factor"": 1.26}"
+3473015,862,148,"Isla Blanquilla",W,,,isla.blanquilla,VE-W-IslaBlanquilla,,"{""area_sr"": 0.03464, ""area_km2"": 418, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 20.4, ""side_estim_deg"": 0.1861}"
+3473012,862,146,"Isla La Orchila",W,,,isla.orchila,VE-W-IslaOrchila,,"{""area_sr"": 0.03722, ""area_km2"": 449, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 21.2, ""side_estim_deg"": 0.1929}"
+3473018,862,178,"Isla La Sola",W,,,isla.sola,VE-W-IslaSola,,"{""area_sr"": 0.01185, ""area_km2"": 143, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 12, ""side_estim_deg"": 0.1089}"
+3473016,862,149,"Isla La Tortuga",W,,,isla.tortuga,VE-W-IslaTortuga,,"{""area_sr"": 0.06219, ""area_km2"": 752, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 27.4, ""side_estim_deg"": 0.2494}"
+3473022,862,179,"Isla de Aves",W,,,isla.aves,VE-W-IslaAves,,"{""area_sr"": 0.01687, ""area_km2"": 200, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 14.1, ""side_estim_deg"": 0.1299}"
+3473020,862,153,"Isla de Patos",W,,,isla.patos,VE-W-IslaPatos,,"{""area_sr"": 0.00065, ""area_km2"": 8, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 2.8, ""side_estim_deg"": 0.0254}"

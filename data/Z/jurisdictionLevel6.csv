@@ -1,8 +1,8 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-2730906,862,33,"Autònomo Alto Orinoco",Z,,32490960,autonomo.alto.orinoco,VE-Z-AutonomoAltoOrinoco,,
-2730907,862,21,"Autònomo Atabapo",Z,,32490964,autonomo.atabapo,VE-Z-AutonomoAtabapo,,
-2730908,862,22,"Autònomo Atures",Z,,,autonomo.atures,VE-Z-AutonomoAtures,,
-2730909,862,23,"Autónomo Autana",Z,,32490974,autonomo.autana,VE-Z-AutonomoAutana,,
-2730910,862,24,"Autónomo Manapiare",Z,,32490978,autonomo.manapiare,VE-Z-AutonomoManapiare,,
-2730911,862,25,"Autónomo Maroa",Z,,2673918,autonomo.maroa,VE-Z-AutonomoMaroa,,
-2730912,862,26,"Autónomo Río Negro",Z,,32490986,autonomo.rio.negro,VE-Z-AutonomoRioNegro,,
+2730906,862,33,"Autònomo Alto Orinoco",Z,,32490960,autonomo.alto.orinoco,VE-Z-AutonomoAltoOrinoco,,"{""area_sr"": 4.04289, ""area_km2"": 49696, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 222.9, ""side_estim_deg"": 2.0107, ""elongation_factor"": 1.94}"
+2730907,862,21,"Autònomo Atabapo",Z,,32490964,autonomo.atabapo,VE-Z-AutonomoAtabapo,,"{""area_sr"": 2.04128, ""area_km2"": 25074, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 158.3, ""side_estim_deg"": 1.4287, ""elongation_factor"": 2.27}"
+2730908,862,22,"Autònomo Atures",Z,,,autonomo.atures,VE-Z-AutonomoAtures,,"{""area_sr"": 0.327, ""area_km2"": 4006, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 63.3, ""side_estim_deg"": 0.5718, ""elongation_factor"": 2.26}"
+2730909,862,23,"Autónomo Autana",Z,,32490974,autonomo.autana,VE-Z-AutonomoAutana,,"{""area_sr"": 1.22057, ""area_km2"": 14970, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 122.4, ""side_estim_deg"": 1.1048, ""elongation_factor"": 2.19}"
+2730910,862,24,"Autónomo Manapiare",Z,,32490978,autonomo.manapiare,VE-Z-AutonomoManapiare,,"{""area_sr"": 2.67767, ""area_km2"": 32839, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 181.2, ""side_estim_deg"": 1.6364, ""elongation_factor"": 2.31}"
+2730911,862,25,"Autónomo Maroa",Z,,2673918,autonomo.maroa,VE-Z-AutonomoMaroa,,"{""area_sr"": 1.1266, ""area_km2"": 13853, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 117.7, ""side_estim_deg"": 1.0614, ""elongation_factor"": 1.94}"
+2730912,862,26,"Autónomo Río Negro",Z,,32490986,autonomo.rio.negro,VE-Z-AutonomoRioNegro,,"{""area_sr"": 3.11574, ""area_km2"": 38334, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 195.8, ""side_estim_deg"": 1.7651, ""elongation_factor"": 2.61}"

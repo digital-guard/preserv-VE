@@ -1,26 +1,26 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-2269815,862,170453,Amazonas,VE,Z,170453,amazonas,VE-Z,,
-2267150,862,190922,Anzoátegui,VE,B,190922,anzoategui,VE-B,,
-3395162,862,41146,Apure,VE,C,41146,apure,VE-C,,
-272746,862,190687,Aragua,VE,D,190687,aragua,VE-D,,
-3763132,862,43271,Barinas,VE,E,43271,barinas,VE-E,,
-2269155,862,191164,Bolívar,VE,F,191164,bolivar,VE-F,,
-272745,862,191186,Carabobo,VE,G,191186,carabobo,VE-G,,
-272662,862,205460,Cojedes,VE,H,205460,cojedes,VE-H,,
-272669,862,201137,"Delta Amacuro",VE,Y,201137,delta.amacuro,VE-Y,,
-3399075,862,130343,"Dependencias Federales",VE,W,130343,dependencias.federales,VE-W,,
-2444378,862,492791,"Distrito Capital",VE,A,492791,distrito.capital,VE-A,,
-2269792,862,202071,Falcón,VE,I,202071,falcon,VE-I,,
-272663,862,202075,Guárico,VE,J,202075,guarico,VE-J,,
-2442704,862,205843,"La Guaira",VE,X,205843,la.guaira,VE-X,,
-272744,862,205796,Lara,VE,K,205796,lara,VE-K,,
-272673,862,191174,Miranda,VE,M,191174,miranda,VE-M,,
-272670,862,205776,Monagas,VE,N,205776,monagas,VE-N,,
-272635,862,165582,Mérida,VE,L,165582,merida,VE-L,,
-2269770,862,204876,"Nueva Esparta",VE,O,204876,nueva.esparta,VE-O,,
-272661,862,205784,Portuguesa,VE,P,205784,portuguesa,VE-P,,
-272671,862,205824,Sucre,VE,R,205824,sucre,VE-R,,
-272634,862,202068,Trujillo,VE,T,202068,trujillo,VE-T,,
-272633,862,41144,Táchira,VE,S,41144,tachira,VE-S,,
-272743,862,201121,Yaracuy,VE,U,201121,yaracuy,VE-U,,
-272632,862,43269,Zulia,VE,V,43269,zulia,VE-V,,
+2269815,862,170453,Amazonas,VE,Z,170453,amazonas,VE-Z,,"{""area_sr"": 14.55174, ""area_km2"": 178772, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 422.8, ""side_estim_deg"": 3.8147, ""elongation_factor"": 2.13}"
+2267150,862,190922,Anzoátegui,VE,B,190922,anzoategui,VE-B,,"{""area_sr"": 3.9374, ""area_km2"": 47885, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 218.8, ""side_estim_deg"": 1.9843, ""elongation_factor"": 2.49}"
+3395162,862,41146,Apure,VE,C,41146,apure,VE-C,,"{""area_sr"": 6.00404, ""area_km2"": 73345, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 270.8, ""side_estim_deg"": 2.4503, ""elongation_factor"": 2.65}"
+272746,862,190687,Aragua,VE,D,190687,aragua,VE-D,,"{""area_sr"": 0.62284, ""area_km2"": 7553, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 86.9, ""side_estim_deg"": 0.7892, ""elongation_factor"": 2.89}"
+3763132,862,43271,Barinas,VE,E,43271,barinas,VE-E,,"{""area_sr"": 3.00885, ""area_km2"": 36671, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 191.5, ""side_estim_deg"": 1.7346, ""elongation_factor"": 3.19}"
+2269155,862,191164,Bolívar,VE,F,191164,bolivar,VE-F,,"{""area_sr"": 20.53922, ""area_km2"": 251313, ""fat_deg_m"": 0.0000090, ""side_estim_km"": 501.3, ""side_estim_deg"": 4.532, ""elongation_factor"": 2.26}"
+272745,862,191186,Carabobo,VE,G,191186,carabobo,VE-G,,"{""area_sr"": 0.45155, ""area_km2"": 5473, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 74, ""side_estim_deg"": 0.672, ""elongation_factor"": 1.98}"
+272662,862,205460,Cojedes,VE,H,205460,cojedes,VE-H,,"{""area_sr"": 1.1382, ""area_km2"": 13829, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 117.6, ""side_estim_deg"": 1.0669, ""elongation_factor"": 2.17}"
+272669,862,201137,"Delta Amacuro",VE,Y,201137,delta.amacuro,VE-Y,,"{""area_sr"": 3.71265, ""area_km2"": 45168, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 212.5, ""side_estim_deg"": 1.9268, ""elongation_factor"": 1.87}"
+3399075,862,130343,"Dependencias Federales",VE,W,130343,dependencias.federales,VE-W,,"{""area_sr"": 0.46784, ""area_km2"": 5639, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 75.1, ""side_estim_deg"": 0.684, ""elongation_factor"": 9.79}"
+2444378,862,492791,"Distrito Capital",VE,A,492791,distrito.capital,VE-A,,"{""area_sr"": 0.03137, ""area_km2"": 380, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.5, ""side_estim_deg"": 0.1771, ""elongation_factor"": 1.88}"
+2269792,862,202071,Falcón,VE,I,202071,falcon,VE-I,,"{""area_sr"": 2.75581, ""area_km2"": 33299, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 182.5, ""side_estim_deg"": 1.6601, ""elongation_factor"": 2.24}"
+272663,862,202075,Guárico,VE,J,202075,guarico,VE-J,,"{""area_sr"": 5.33052, ""area_km2"": 64855, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 254.7, ""side_estim_deg"": 2.3088, ""elongation_factor"": 2.12}"
+2442704,862,205843,"La Guaira",VE,X,205843,la.guaira,VE-X,,"{""area_sr"": 0.16269, ""area_km2"": 1969, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 44.4, ""side_estim_deg"": 0.4033, ""elongation_factor"": 2.79}"
+272744,862,205796,Lara,VE,K,205796,lara,VE-K,,"{""area_sr"": 1.60468, ""area_km2"": 19451, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 139.5, ""side_estim_deg"": 1.2668, ""elongation_factor"": 2.43}"
+272673,862,191174,Miranda,VE,M,191174,miranda,VE-M,,"{""area_sr"": 0.81851, ""area_km2"": 9918, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 99.6, ""side_estim_deg"": 0.9047, ""elongation_factor"": 2.33}"
+272670,862,205776,Monagas,VE,N,205776,monagas,VE-N,,"{""area_sr"": 2.32894, ""area_km2"": 28290, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 168.2, ""side_estim_deg"": 1.5261, ""elongation_factor"": 1.97}"
+272635,862,165582,Mérida,VE,L,165582,merida,VE-L,,"{""area_sr"": 0.99679, ""area_km2"": 12137, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 110.2, ""side_estim_deg"": 0.9984, ""elongation_factor"": 2.14}"
+2269770,862,204876,"Nueva Esparta",VE,O,204876,nueva.esparta,VE-O,,"{""area_sr"": 0.24156, ""area_km2"": 2921, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 54, ""side_estim_deg"": 0.4915, ""elongation_factor"": 1.62}"
+272661,862,205784,Portuguesa,VE,P,205784,portuguesa,VE-P,,"{""area_sr"": 1.44011, ""area_km2"": 17513, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 132.3, ""side_estim_deg"": 1.2, ""elongation_factor"": 2.34}"
+272671,862,205824,Sucre,VE,R,205824,sucre,VE-R,,"{""area_sr"": 1.27395, ""area_km2"": 15427, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 124.2, ""side_estim_deg"": 1.1287, ""elongation_factor"": 2.68}"
+272634,862,202068,Trujillo,VE,T,202068,trujillo,VE-T,,"{""area_sr"": 0.70844, ""area_km2"": 8605, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 92.8, ""side_estim_deg"": 0.8417, ""elongation_factor"": 1.94}"
+272633,862,41144,Táchira,VE,S,41144,tachira,VE-S,,"{""area_sr"": 0.87594, ""area_km2"": 10681, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 103.4, ""side_estim_deg"": 0.9359, ""elongation_factor"": 2.25}"
+272743,862,201121,Yaracuy,VE,U,201121,yaracuy,VE-U,,"{""area_sr"": 0.5037, ""area_km2"": 6103, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 78.1, ""side_estim_deg"": 0.7097, ""elongation_factor"": 2.17}"
+272632,862,43269,Zulia,VE,V,43269,zulia,VE-V,,"{""area_sr"": 4.01389, ""area_km2"": 48677, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 220.6, ""side_estim_deg"": 2.0035, ""elongation_factor"": 2.98}"

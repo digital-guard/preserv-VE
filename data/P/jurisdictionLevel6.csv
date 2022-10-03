@@ -1,15 +1,15 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-9829596,862,242,"Agua Blanca",P,,2827311,agua.blanca,VE-P-AguaBlanca,,
-9829691,862,244,Araure,P,,2741347,araure,VE-P-Araure,,
-9823706,862,236,Esteller,P,,2255063,esteller,VE-P-Esteller,,
-9821322,862,234,Guanare,P,,3118730,guanare,VE-P-Guanare,,
-9826430,862,240,Guanarito,P,,2916834,guanarito,VE-P-Guanarito,,
-9775353,862,231,"José Vicente de Unda",P,,2479642,jose.vicente.unda,VE-P-JoseVicenteUnda,,
-9829597,862,243,Onoto,P,,583005,onoto,VE-P-Onoto,,
-9823128,862,235,Ospino,P,,3087224,ospino,VE-P-Ospino,,
-9826265,862,239,Papelón,P,,2436120,papelon,VE-P-Papelon,,
-9828793,862,241,Páez,P,,2408036,paez,VE-P-Paez,,
-9820943,862,233,"San Genaro de Boconoíto",P,,2557299,san.genaro.boconoito,VE-P-SanGenaroBoconoito,,
-9825580,862,237,"Santa Rosalía",P,,3071565,santa.rosalia,VE-P-SantaRosalia,,
-9798056,862,232,Sucre,P,,2421017,sucre,VE-P-Sucre,,
-9825864,862,238,Turén,P,,3038839,turen,VE-P-Turen,,
+9829596,862,242,"Agua Blanca",P,,2827311,agua.blanca,VE-P-AguaBlanca,,"{""area_sr"": 0.01999, ""area_km2"": 243, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 15.6, ""side_estim_deg"": 0.1414, ""elongation_factor"": 2}"
+9829691,862,244,Araure,P,,2741347,araure,VE-P-Araure,,"{""area_sr"": 0.06213, ""area_km2"": 754, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 27.5, ""side_estim_deg"": 0.2493, ""elongation_factor"": 2.53}"
+9823706,862,236,Esteller,P,,2255063,esteller,VE-P-Esteller,,"{""area_sr"": 0.07521, ""area_km2"": 914, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 30.2, ""side_estim_deg"": 0.2742, ""elongation_factor"": 2.51}"
+9821322,862,234,Guanare,P,,3118730,guanare,VE-P-Guanare,,"{""area_sr"": 0.19398, ""area_km2"": 2358, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 48.6, ""side_estim_deg"": 0.4404, ""elongation_factor"": 2.22}"
+9826430,862,240,Guanarito,P,,2916834,guanarito,VE-P-Guanarito,,"{""area_sr"": 0.29843, ""area_km2"": 3634, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 60.3, ""side_estim_deg"": 0.5463, ""elongation_factor"": 2.86}"
+9775353,862,231,"José Vicente de Unda",P,,2479642,jose.vicente.unda,VE-P-JoseVicenteUnda,,"{""area_sr"": 0.02107, ""area_km2"": 256, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 16, ""side_estim_deg"": 0.1451, ""elongation_factor"": 1.77}"
+9829597,862,243,Onoto,P,,583005,onoto,VE-P-Onoto,,"{""area_sr"": 0.01819, ""area_km2"": 221, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 14.9, ""side_estim_deg"": 0.1349, ""elongation_factor"": 2.37}"
+9823128,862,235,Ospino,P,,3087224,ospino,VE-P-Ospino,,"{""area_sr"": 0.14963, ""area_km2"": 1818, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 42.6, ""side_estim_deg"": 0.3868, ""elongation_factor"": 2.66}"
+9826265,862,239,Papelón,P,,2436120,papelon,VE-P-Papelon,,"{""area_sr"": 0.20501, ""area_km2"": 2494, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 49.9, ""side_estim_deg"": 0.4528, ""elongation_factor"": 3.88}"
+9828793,862,241,Páez,P,,2408036,paez,VE-P-Paez,,"{""area_sr"": 0.03981, ""area_km2"": 484, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 22, ""side_estim_deg"": 0.1995, ""elongation_factor"": 2.64}"
+9820943,862,233,"San Genaro de Boconoíto",P,,2557299,san.genaro.boconoito,VE-P-SanGenaroBoconoito,,"{""area_sr"": 0.09536, ""area_km2"": 1160, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 34.1, ""side_estim_deg"": 0.3088, ""elongation_factor"": 2.81}"
+9825580,862,237,"Santa Rosalía",P,,3071565,santa.rosalia,VE-P-SantaRosalia,,"{""area_sr"": 0.10359, ""area_km2"": 1260, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 35.5, ""side_estim_deg"": 0.3219, ""elongation_factor"": 2.79}"
+9798056,862,232,Sucre,P,,2421017,sucre,VE-P-Sucre,,"{""area_sr"": 0.03742, ""area_km2"": 455, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 21.3, ""side_estim_deg"": 0.1934, ""elongation_factor"": 2.02}"
+9825864,862,238,Turén,P,,3038839,turen,VE-P-Turen,,"{""area_sr"": 0.1203, ""area_km2"": 1462, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 38.2, ""side_estim_deg"": 0.3468, ""elongation_factor"": 2.09}"

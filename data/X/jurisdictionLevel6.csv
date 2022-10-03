@@ -1,2 +1,2 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-2442703,862,28,Vargas,X,,3650762,vargas,VE-X-Vargas,,
+2442703,862,28,Vargas,X,,3650762,vargas,VE-X-Vargas,,"{""area_sr"": 0.10707, ""area_km2"": 1296, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 36, ""side_estim_deg"": 0.3272, ""elongation_factor"": 3.57}"

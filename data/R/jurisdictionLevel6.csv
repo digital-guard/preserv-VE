@@ -1,16 +1,16 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-5803265,862,208,"Andrés Mata",R,,2095488,andres.mata,VE-R-AndresMata,,
-5803266,862,209,"Andŕes Eloy Blanco",R,,2849019,andres.eloy.blanco,VE-R-AndresEloyBlanco,,
-5740456,862,201,Arismendi,R,,2607465,arismendi,VE-R-Arismendi,,
-5805461,862,214,Benítez,R,,1891862,benitez,VE-R-Benitez,,
-5803319,862,210,Bermúdez,R,,2309997,bermudez,VE-R-Bermudez,,
-5749549,862,203,Bolívar,R,,530214,bolivar,VE-R-Bolivar,,
-5803165,862,206,Cajigal,R,,2554123,cajigal,VE-R-Cajigal,,
-5741775,862,202,"Cruz Salmerón Acosta",R,,2203040,cruz.salmeron.acosta,VE-R-CruzSalmeronAcosta,,
-5803420,862,211,Libertador,R,,3071710,libertador,VE-R-Libertador,,
-5803878,862,213,Mariño,R,,3071960,marino,VE-R-Marino,,
-5803225,862,207,Mejía,R,,,mejia,VE-R-Mejia,,
-5805490,862,215,Montes,R,,3007503,montes,VE-R-Montes,,
-5760167,862,205,Ribero,R,,3071700,ribero,VE-R-Ribero,,
-5749568,862,204,Sucre,R,,2674191,sucre,VE-R-Sucre,,
-5803877,862,212,Valdez,R,,2230534,valdez,VE-R-Valdez,,
+5803265,862,208,"Andrés Mata",R,,2095488,andres.mata,VE-R-AndresMata,,"{""area_sr"": 0.03151, ""area_km2"": 381, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.5, ""side_estim_deg"": 0.1775, ""elongation_factor"": 2.14}"
+5803266,862,209,"Andŕes Eloy Blanco",R,,2849019,andres.eloy.blanco,VE-R-AndresEloyBlanco,,"{""area_sr"": 0.05326, ""area_km2"": 645, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 25.4, ""side_estim_deg"": 0.2308, ""elongation_factor"": 3.41}"
+5740456,862,201,Arismendi,R,,2607465,arismendi,VE-R-Arismendi,,"{""area_sr"": 0.07143, ""area_km2"": 864, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 29.4, ""side_estim_deg"": 0.2673, ""elongation_factor"": 5.57}"
+5805461,862,214,Benítez,R,,1891862,benitez,VE-R-Benitez,,"{""area_sr"": 0.23174, ""area_km2"": 2808, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 53, ""side_estim_deg"": 0.4814, ""elongation_factor"": 1.85}"
+5803319,862,210,Bermúdez,R,,2309997,bermudez,VE-R-Bermudez,,"{""area_sr"": 0.01777, ""area_km2"": 215, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 14.7, ""side_estim_deg"": 0.1333, ""elongation_factor"": 2.6}"
+5749549,862,203,Bolívar,R,,530214,bolivar,VE-R-Bolivar,,"{""area_sr"": 0.01857, ""area_km2"": 225, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 15, ""side_estim_deg"": 0.1363, ""elongation_factor"": 1.39}"
+5803165,862,206,Cajigal,R,,2554123,cajigal,VE-R-Cajigal,,"{""area_sr"": 0.02822, ""area_km2"": 342, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 18.5, ""side_estim_deg"": 0.168, ""elongation_factor"": 1.34}"
+5741775,862,202,"Cruz Salmerón Acosta",R,,2203040,cruz.salmeron.acosta,VE-R-CruzSalmeronAcosta,,"{""area_sr"": 0.06014, ""area_km2"": 728, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 27, ""side_estim_deg"": 0.2452, ""elongation_factor"": 2.89}"
+5803420,862,211,Libertador,R,,3071710,libertador,VE-R-Libertador,,"{""area_sr"": 0.01779, ""area_km2"": 215, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 14.7, ""side_estim_deg"": 0.1334, ""elongation_factor"": 1.87}"
+5803878,862,213,Mariño,R,,3071960,marino,VE-R-Marino,,"{""area_sr"": 0.03695, ""area_km2"": 447, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 21.1, ""side_estim_deg"": 0.1922, ""elongation_factor"": 1.65}"
+5803225,862,207,Mejía,R,,,mejia,VE-R-Mejia,,"{""area_sr"": 0.02295, ""area_km2"": 278, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 16.7, ""side_estim_deg"": 0.1515, ""elongation_factor"": 1.2}"
+5805490,862,215,Montes,R,,3007503,montes,VE-R-Montes,,"{""area_sr"": 0.08133, ""area_km2"": 986, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 31.4, ""side_estim_deg"": 0.2852, ""elongation_factor"": 1.4}"
+5760167,862,205,Ribero,R,,3071700,ribero,VE-R-Ribero,,"{""area_sr"": 0.11864, ""area_km2"": 1437, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 37.9, ""side_estim_deg"": 0.3444, ""elongation_factor"": 1.9}"
+5749568,862,204,Sucre,R,,2674191,sucre,VE-R-Sucre,,"{""area_sr"": 0.13622, ""area_km2"": 1651, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 40.6, ""side_estim_deg"": 0.3691, ""elongation_factor"": 2.02}"
+5803877,862,212,Valdez,R,,2230534,valdez,VE-R-Valdez,,"{""area_sr"": 0.05301, ""area_km2"": 642, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 25.3, ""side_estim_deg"": 0.2302, ""elongation_factor"": 2.88}"
