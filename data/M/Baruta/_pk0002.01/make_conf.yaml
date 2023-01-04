@@ -1,0 +1,61 @@
+pack_id: 2.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=32619
+
+files:
+- file: 06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
+  name: Baruta_Base.rar
+  p: 1
+
+
+layers:
+
+  geoaddress:
+    subtype: full
+    method: shp2sql
+    file: 1
+    sql_view: |-
+          SELECT row_number() OVER () as gid, sector, manzana, parcela, sub_parcel, n_civico as house_number, \
+          nom_urb as ns_name, via_acceso as via_name, nom_inmueb, nom_edif_m, tipo_inm, uso, orig_fid, \
+          geom \
+          FROM $(tabname)
+    orig_filename: INMUEBLE_CATASTRADO_PTO
+    codec: SHP~Latin1
+
+  via:
+    subtype: full
+    method: shp2sql
+    file: 1
+    sql_view: |-
+          SELECT row_number() OVER () as gid, urbaniza as ns_name, tipo_via, nom_via, nom_conc as via_name,\
+          geom \
+          FROM $(tabname)
+    orig_filename: CENTROS_DE_VIAS_RV
+    codec: SHP~Latin1
+
+  building:
+    subtype: none
+    method: shp2sql
+    file: 1
+    sql_view: |-
+          SELECT row_number() OVER () as gid, \
+          geom \
+          FROM $(tabname)
+    orig_filename: EDIFICACIONES_RV
+    codec: SHP~Latin1
+
+  nsvia:
+    subtype: full
+    method: shp2sql
+    file: 1
+    sql_view: |-
+          SELECT row_number() OVER () as gid, nom_urb as ns_name, cod_urb, tipo_desar, pob_1998, por_sector, \
+          geom \
+          FROM $(tabname)
+    orig_filename: URBANIZACIONES_RV
+    codec: SHP~Latin1
+
+    #LIMITE_BARUTA_RV.shp limite de municipio
+    #VIALIDAD_RV.shp
