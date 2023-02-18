@@ -23,6 +23,36 @@ layers:
           FROM $(tabname)
     orig_filename: INMUEBLE_CATASTRADO_PTO
     codec: SHP~Latin1
+    standardized_fields:
+     -
+      name: n_civico
+      standard: house_number
+     -
+      name: nom_urb
+      standard: ns_name
+     -
+      name: via_acceso
+      standard: via_name
+    other_fields:
+     -
+      name: sector
+     -
+      name: manzana
+     -
+      name: parcela
+     -
+      name: sub_parcel
+     -
+      name: nom_inmueb
+     -
+      name: nom_edif_m
+     -
+      name: tipo_inm
+     -
+      name: uso
+     -
+      name: orig_fid
+
 
   via:
     subtype: full
@@ -34,6 +64,18 @@ layers:
           FROM $(tabname)
     orig_filename: CENTROS_DE_VIAS_RV
     codec: SHP~Latin1
+    standardized_fields:
+     -
+      name: urbaniza
+      standard: ns_name
+     -
+      name: nom_conc
+      standard: via_name
+    other_fields:
+     -
+      name: tipo_via
+     -
+      name: nom_via
 
   building:
     subtype: none
@@ -56,6 +98,19 @@ layers:
           FROM $(tabname)
     orig_filename: URBANIZACIONES_RV
     codec: SHP~Latin1
+    standardized_fields:
+     -
+      name: nom_urb
+      standard: ns_name
+    other_fields:
+     -
+      name: cod_urb
+     -
+      name: tipo_desar
+     -
+      name: pob_1998
+     -
+      name: por_sector
 
-    #LIMITE_BARUTA_RV.shp limite de municipio
-    #VIALIDAD_RV.shp
+comments: arquivos extras LIMITE_BARUTA_RV.shp limite de municipio e VIALIDAD_RV.shp
+test_evidence: evidencia.png
