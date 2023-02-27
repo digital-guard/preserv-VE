@@ -38,7 +38,7 @@ Nombre del archivo: `INMUEBLE_CATASTRADO_PTO`.<br/>*Descarga* e integridad: [06c
 #### Datos relevantes
 * `n_civico` (house_number)
 
-* `nom_urb` (ns_name)
+* `nom_urb` (nsvia)
 
 * `via_acceso` (via)
 
@@ -60,7 +60,7 @@ Nombre del archivo: `INMUEBLE_CATASTRADO_PTO`.<br/>*Descarga* e integridad: [06c
 Nombre del archivo: `URBANIZACIONES_RV`.<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Formato: shp<br/>SRID: 32619
 
 #### Datos relevantes
-* `nom_urb` (ns_name)
+* `nom_urb` (nsvia)
 
 #### Otros datos relevantes
 * `cod_urb`
@@ -75,7 +75,7 @@ Nombre del archivo: `URBANIZACIONES_RV`.<br/>*Descarga* e integridad: [06c5461d0
 Nombre del archivo: `CENTROS_DE_VIAS_RV`.<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Formato: shp<br/>SRID: 32619
 
 #### Datos relevantes
-* `urbaniza` (ns_name)
+* `urbaniza` (nsvia)
 
 * `nom_conc` (via)
 
@@ -137,7 +137,7 @@ psql postgres://postgres@localhost/ingest1 -c "SELECT srid, proj4text FROM spati
 cd /tmp/sandbox/_pk86200000201_001; shp2pgsql -D -W ISO-8859-1  -s 32619 "INMUEBLE_CATASTRADO_PTO.shp" pk86200000201101_p1_geoaddress | psql -q postgres://postgres@localhost/ingest1 2> /dev/null
 
 psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk86200000201101_p1_geoaddress AS SELECT row_number() OVER () as gid, sector, manzana, parcela, sub_parcel, n_civico as house_number, \
-nom_urb as ns_name, via_acceso as via, nom_inmueb, nom_edif_m, tipo_inm, uso, orig_fid, \
+nom_urb as nsvia, via_acceso as via, nom_inmueb, nom_edif_m, tipo_inm, uso, orig_fid, \
 geom \
 FROM $(tabname)"
 psql $(pg_uri_db) -c "SELECT ingest.any_load('shp2sql','$(sandbox)/INMUEBLE_CATASTRADO_PTO.shp','geoaddress_full','vw1_pk86200000201101_p1_geoaddress','86200000201101','06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar',array[]::text[],1,1)"
@@ -162,7 +162,7 @@ cd /tmp/sandbox/_pk86200000201_001; 7z  x -y /var/www/preserv.addressforall.org/
 psql postgres://postgres@localhost/ingest1 -c "SELECT srid, proj4text FROM spatial_ref_sys where srid=32619"
 cd /tmp/sandbox/_pk86200000201_001; shp2pgsql -D -W ISO-8859-1  -s 32619 "URBANIZACIONES_RV.shp" pk86200000201101_p1_nsvia | psql -q postgres://postgres@localhost/ingest1 2> /dev/null
 
-psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk86200000201101_p1_nsvia AS SELECT row_number() OVER () as gid, nom_urb as ns_name, cod_urb, tipo_desar, pob_1998, por_sector, \
+psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk86200000201101_p1_nsvia AS SELECT row_number() OVER () as gid, nom_urb as nsvia, cod_urb, tipo_desar, pob_1998, por_sector, \
 geom \
 FROM $(tabname)"
 psql $(pg_uri_db) -c "SELECT ingest.any_load('shp2sql','$(sandbox)/URBANIZACIONES_RV.shp','nsvia_full','vw1_pk86200000201101_p1_nsvia','86200000201101','06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar',array[]::text[],5,1)"
@@ -187,7 +187,7 @@ cd /tmp/sandbox/_pk86200000201_001; 7z  x -y /var/www/preserv.addressforall.org/
 psql postgres://postgres@localhost/ingest1 -c "SELECT srid, proj4text FROM spatial_ref_sys where srid=32619"
 cd /tmp/sandbox/_pk86200000201_001; shp2pgsql -D -W ISO-8859-1  -s 32619 "CENTROS_DE_VIAS_RV.shp" pk86200000201101_p1_via | psql -q postgres://postgres@localhost/ingest1 2> /dev/null
 
-psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk86200000201101_p1_via AS SELECT row_number() OVER () as gid, urbaniza as ns_name, tipo_via, nom_via, nom_conc as via,\
+psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk86200000201101_p1_via AS SELECT row_number() OVER () as gid, urbaniza as nsvia, tipo_via, nom_via, nom_conc as via,\
 geom \
 FROM $(tabname)"
 psql $(pg_uri_db) -c "SELECT ingest.any_load('shp2sql','$(sandbox)/CENTROS_DE_VIAS_RV.shp','via_full','vw1_pk86200000201101_p1_via','86200000201101','06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar',array[]::text[],5,1)"
