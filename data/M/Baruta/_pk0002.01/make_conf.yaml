@@ -17,7 +17,7 @@ layers:
     method: shp2sql
     file: 1
     sql_view: |-
-          SELECT row_number() OVER () as gid, sector, manzana, parcela, sub_parcel, n_civico as house_number, \
+          SELECT row_number() OVER () as gid, sector, manzana, parcela, sub_parcel, n_civico as hnum, \
           nom_urb as nsvia, via_acceso as via, nom_inmueb, nom_edif_m, tipo_inm, uso, orig_fid, \
           geom \
           FROM $(tabname)
@@ -26,7 +26,7 @@ layers:
     standardized_fields:
      -
       name: n_civico
-      standard: house_number
+      standard: hnum
      -
       name: nom_urb
       standard: nsvia

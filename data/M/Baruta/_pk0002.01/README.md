@@ -36,7 +36,7 @@ Nombre del archivo: `EDIFICACIONES_RV`.<br/>*Descarga* e integridad: [06c5461d0c
 Nombre del archivo: `INMUEBLE_CATASTRADO_PTO`.<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Formato: shp<br/>SRID: 32619
 
 #### Datos relevantes
-* `n_civico` (house_number)
+* `n_civico` (hnum)
 
 * `nom_urb` (nsvia)
 
@@ -136,7 +136,7 @@ cd /tmp/sandbox/_pk86200000201_001; 7z  x -y /var/www/preserv.addressforall.org/
 psql postgres://postgres@localhost/ingest1 -c "SELECT srid, proj4text FROM spatial_ref_sys where srid=32619"
 cd /tmp/sandbox/_pk86200000201_001; shp2pgsql -D -W ISO-8859-1  -s 32619 "INMUEBLE_CATASTRADO_PTO.shp" pk86200000201101_p1_geoaddress | psql -q postgres://postgres@localhost/ingest1 2> /dev/null
 
-psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk86200000201101_p1_geoaddress AS SELECT row_number() OVER () as gid, sector, manzana, parcela, sub_parcel, n_civico as house_number, \
+psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk86200000201101_p1_geoaddress AS SELECT row_number() OVER () as gid, sector, manzana, parcela, sub_parcel, n_civico as hnum, \
 nom_urb as nsvia, via_acceso as via, nom_inmueb, nom_edif_m, tipo_inm, uso, orig_fid, \
 geom \
 FROM $(tabname)"
