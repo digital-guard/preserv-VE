@@ -1,3 +1,3 @@
 pack_id,donor_id,pack_count,lst_vers,donor_label,user_resp,accepted_date,scope,about,author,contentReferenceTime,license_is_explicit,license,uri_objType,uri,isAt_UrbiGIS,status,statusUpdateDate
-00101,1,1,001,OSM,claiton,2022-04-18,VE,"Planet OSM, todos os dados ",(self),2022-04-17,yes,ODbL,site,http://download.geofabrik.de/south-america/venezuela-latest.osm.pbf,no,working-makefile,
+00101,1,1,001,OSM,claiton,2022-04-18,VE,"Planet OSM, todos os dados ",(self),2022-04-17,yes,odbl-1.0,site,http://download.geofabrik.de/south-america/venezuela-latest.osm.pbf,no,working-makefile,
 00201,2,1,001,Baruta,carlos,2022-11-27,VE-M-Baruta,"Municipio Baruta",(self),2022-11-27,no,CC0,e-mail,-,no,-,-
