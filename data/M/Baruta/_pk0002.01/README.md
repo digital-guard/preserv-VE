@@ -1,6 +1,6 @@
 <aside>
 <table align="right" style="padding: 1em">
-<tr><td>Paquete <a target="_git" title="Enlace canónico a git para este paquete." href="https://git.digital-guard.org/preserv-VE/blob/main/data/M/Baruta/_pk0002.01"><big><b>pk0002.01</b></big></a> de <small><a target="_afacodes" title="Jurisdicción" href="https://afa.codes/VE-M-Baruta">VE-M-Baruta</a></small>
+<tr><td>Paquete <big><b>pk0002.01</b></big> de <small><a target="_afacodes" title="Jurisdicción" href="https://afa.codes/VE-M-Baruta">VE-M-Baruta</a></small>
 </td></tr>
 <tr><td>
 Donante: <a rel="external" target="_doador" href="https://alcaldiabaruta.gob.ve/">Alcaldía del Municipio Baruta</a>
@@ -28,7 +28,7 @@ Los archivos contienen "capas de datos" temáticas. Los metadatos también descr
 
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-building.png" alt="building" width="20"/> building
 
-Nombre del archivo: `EDIFICACIONES_RV`<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Tamaño del archivo: 15797521 bytes (15.07 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32619
+Nombre del archivo: `EDIFICACIONES_RV`<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](https://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Tamaño del archivo: 15797521 bytes (15.07 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32619
 
 #### Filtrado de resultados y su publicación
 11047147 bytes (10.54 <abbr title="mebibyte">MiB</abbr>)<br/>36897 polígonos con 8.04 <abbr title="quilômetros quadrados">km²</abbr><br/>densidad media: 0.18 polígonos/km²<br/>GeoJSONs publicados em [https://git.digital-guard.org/preservCutGeo-VE2021/tree/main/data/M/Baruta/_pk0002.01/building](https://git.digital-guard.org/preservCutGeo-VE2021/tree/main/data/M/Baruta/_pk0002.01/building)
@@ -37,7 +37,7 @@ Nombre del archivo: `EDIFICACIONES_RV`<br/>*Descarga* e integridad: [06c5461d0c7
 [https://viz.addressforall.org/VE-M-Baruta/_pk0002.01/building](https://viz.addressforall.org/VE-M-Baruta/_pk0002.01/building)
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/> geoaddress
 
-Nombre del archivo: `INMUEBLE_CATASTRADO_PTO`<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Tamaño del archivo: 15797521 bytes (15.07 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32619
+Nombre del archivo: `INMUEBLE_CATASTRADO_PTO`<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](https://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Tamaño del archivo: 15797521 bytes (15.07 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32619
 
 #### Datos relevantes
 * `n_civico` (hnum)
@@ -64,7 +64,7 @@ Nombre del archivo: `INMUEBLE_CATASTRADO_PTO`<br/>*Descarga* e integridad: [06c5
 [https://viz.addressforall.org/VE-M-Baruta/_pk0002.01/geoaddress](https://viz.addressforall.org/VE-M-Baruta/_pk0002.01/geoaddress)
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-nsvia.png" alt="nsvia" width="20"/> nsvia
 
-Nombre del archivo: `URBANIZACIONES_RV`<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Tamaño del archivo: 15797521 bytes (15.07 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32619
+Nombre del archivo: `URBANIZACIONES_RV`<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](https://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Tamaño del archivo: 15797521 bytes (15.07 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32619
 
 #### Datos relevantes
 * `nom_urb` (nsvia)
@@ -82,7 +82,7 @@ Nombre del archivo: `URBANIZACIONES_RV`<br/>*Descarga* e integridad: [06c5461d0c
 [https://viz.addressforall.org/VE-M-Baruta/_pk0002.01/nsvia](https://viz.addressforall.org/VE-M-Baruta/_pk0002.01/nsvia)
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-via.png" alt="via" width="20"/> via
 
-Nombre del archivo: `CENTROS_DE_VIAS_RV`<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Tamaño del archivo: 15797521 bytes (15.07 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32619
+Nombre del archivo: `CENTROS_DE_VIAS_RV`<br/>*Descarga* e integridad: [06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar](https://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar)<br/>Descripción: Baruta_Base.rar<br/>Tamaño del archivo: 15797521 bytes (15.07 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 32619
 
 #### Datos relevantes
 * `urbaniza` (nsvia)

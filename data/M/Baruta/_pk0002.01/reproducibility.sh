@@ -7,7 +7,7 @@ rm -rf /tmp/sandbox/_pk86200000201_001 || true
 mkdir -m 777 -p /tmp/sandbox
 mkdir -m 777 -p /tmp/sandbox/_pk86200000201_001
 mkdir -p /tmp/pg_io
-wget -P /var/www/dl.digital-guard.org http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
+wget -P /var/www/dl.digital-guard.org https://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
 sudo chown postgres:www-data /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar && sudo chmod 664 /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
 psql postgres://postgres@localhost/ingest1 -c "DROP  TABLE IF EXISTS pk86200000201101_p1_building CASCADE"
 cd /tmp/sandbox/_pk86200000201_001; 7z  x -y /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar "*EDIFICACIONES_RV*" ; chmod -R a+rwx . > /dev/null
@@ -37,7 +37,7 @@ rm -rf /tmp/sandbox/_pk86200000201_001 || true
 mkdir -m 777 -p /tmp/sandbox
 mkdir -m 777 -p /tmp/sandbox/_pk86200000201_001
 mkdir -p /tmp/pg_io
-wget -P /var/www/dl.digital-guard.org http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
+wget -P /var/www/dl.digital-guard.org https://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
 sudo chown postgres:www-data /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar && sudo chmod 664 /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
 psql postgres://postgres@localhost/ingest1 -c "DROP  TABLE IF EXISTS pk86200000201101_p1_geoaddress CASCADE"
 cd /tmp/sandbox/_pk86200000201_001; 7z  x -y /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar "*INMUEBLE_CATASTRADO_PTO*" ; chmod -R a+rwx . > /dev/null
@@ -65,7 +65,7 @@ rm -rf /tmp/sandbox/_pk86200000201_001 || true
 mkdir -m 777 -p /tmp/sandbox
 mkdir -m 777 -p /tmp/sandbox/_pk86200000201_001
 mkdir -p /tmp/pg_io
-wget -P /var/www/dl.digital-guard.org http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
+wget -P /var/www/dl.digital-guard.org https://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
 sudo chown postgres:www-data /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar && sudo chmod 664 /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
 psql postgres://postgres@localhost/ingest1 -c "DROP  TABLE IF EXISTS pk86200000201101_p1_nsvia CASCADE"
 cd /tmp/sandbox/_pk86200000201_001; 7z  x -y /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar "*URBANIZACIONES_RV*" ; chmod -R a+rwx . > /dev/null
@@ -93,7 +93,7 @@ rm -rf /tmp/sandbox/_pk86200000201_001 || true
 mkdir -m 777 -p /tmp/sandbox
 mkdir -m 777 -p /tmp/sandbox/_pk86200000201_001
 mkdir -p /tmp/pg_io
-wget -P /var/www/dl.digital-guard.org http://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
+wget -P /var/www/dl.digital-guard.org https://dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
 sudo chown postgres:www-data /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar && sudo chmod 664 /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar
 psql postgres://postgres@localhost/ingest1 -c "DROP  TABLE IF EXISTS pk86200000201101_p1_via CASCADE"
 cd /tmp/sandbox/_pk86200000201_001; 7z  x -y /var/www/dl.digital-guard.org/06c5461d0c7bdebd504d4033bab337b2d7a4aa236562e0704b9e49bc926a1fba.rar "*CENTROS_DE_VIAS_RV*" ; chmod -R a+rwx . > /dev/null
