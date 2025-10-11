@@ -1,2 +1,2 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3321735,862,4,Libertador,A,,887222,libertador,VE-A-Libertador,,"{""area_sr"": 0.03137, ""area_km2"": 380, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.5, ""side_estim_deg"": 0.1771, ""elongation_factor"": 1.88}"
+3321735,862,4,Libertador,A,,887222,libertador,VE-A-Libertador,,"{""area_sr"": 0.03137, ""area_km2"": 380, ""fat_deg_m"": 0.0000091, ""side_estim_km"": 19.5, ""side_estim_deg"": 0.1771, ""elongation_factor"": 1.88, ""shares_border_with"": [""VE-M-Baruta"", ""VE-M-Carrizal"", ""VE-M-Chacao"", ""VE-M-Guaicaipuro"", ""VE-M-LosSalias"", ""VE-X-Vargas""]}"
